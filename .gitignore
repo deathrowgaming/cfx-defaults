@@ -1,0 +1,6 @@
+.vscode
+*.bkp
+.replxx_history
+cache
+db
+node_modules
